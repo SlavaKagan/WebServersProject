@@ -15,7 +15,10 @@ Flask-Migrate (2.5.2), Flask-SQLAlchemy (2.5.1) <br/>
 **Testing Code:** Package "pytest" (7.4.4) testing in python and assertions  https://flask.palletsprojects.com/en/3.0.x/testing/ <br />
 
 ## Abstract
-Develop a system that will enable health monitoring of webservers in the cloud.
+System that enable health monitoring of webservers in the cloud.
+
+## How to Run?
+py run.py
 
 ## Core Functionality
     1. Ability to add / edit / delete / list webservers
